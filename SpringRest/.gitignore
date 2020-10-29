@@ -1,3 +1,5 @@
+Spring-Rest-Demo/SpringRest/src/main/resources/*.properties
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
